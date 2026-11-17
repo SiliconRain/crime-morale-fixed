@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Crime Morale
+// @name        Crime Morale - FIXED
 // @namespace   https://github.com/tobytorn
 // @description A comprehensive tool for Crime 2.0
 // @author      tobytorn [1617955]
