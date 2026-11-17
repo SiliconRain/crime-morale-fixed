@@ -13,8 +13,8 @@
 // @supportURL  https://github.com/tobytorn/crime-morale
 // @license     MIT
 // @require     https://unpkg.com/jquery@3.7.0/dist/jquery.min.js
-// @downloadURL https://update.greasyfork.org/scripts/515557/Crime%20Morale.user.js
-// @updateURL https://update.greasyfork.org/scripts/515557/Crime%20Morale.meta.js
+// @downloadURL https://github.com/SiliconRain/crime-morale-fixed/raw/refs/heads/master/crime-morale.user.js
+// @updateURL https://github.com/SiliconRain/crime-morale-fixed/raw/refs/heads/master/crime-morale.user.js
 // ==/UserScript==
 
 (function () {
